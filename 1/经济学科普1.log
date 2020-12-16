@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.10.20)  16 DEC 2020 23:41
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.10.20)  16 DEC 2020 23:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -289,8 +289,7 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \float@box=\box54
 \@float@everytoks=\toks18
 \@floatcapt=\box55
-)
-No file 经济学科普1.aux.
+) (./经济学科普1.aux)
 \openout1 = `经济学科普1.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
@@ -309,6 +308,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
+
 ABD: EverySelectfont initializing macros
 LaTeX Info: Redefining \selectfont on input line 9.
 
@@ -390,8 +390,8 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 66.
  [3] [4] [5] (./经济学科普1.aux) ) 
 Here is how much of TeX's memory you used:
- 6989 strings out of 479418
- 205717 string characters out of 5888104
+ 6991 strings out of 479418
+ 205739 string characters out of 5888104
  480038 words of memory out of 5000000
  24417 multiletter control sequences out of 15000+600000
  536304 words of font info for 63 fonts, out of 8000000 for 9000
